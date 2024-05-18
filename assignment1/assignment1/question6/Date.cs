@@ -49,9 +49,7 @@ namespace question6
 
         public void PrintDate()
         {
-            Console.WriteLine("Day: "+Day);
-            Console.WriteLine("Month: "+Month);
-            Console.WriteLine("Year: "+Year);
+            Console.WriteLine(ToString());
         }
 
         public bool IsValid()
