@@ -1,0 +1,15 @@
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\bin\Debug\net6.0\question4.exe
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\bin\Debug\net6.0\question4.deps.json
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\bin\Debug\net6.0\question4.runtimeconfig.json
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\bin\Debug\net6.0\question4.dll
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\bin\Debug\net6.0\question4.pdb
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\obj\Debug\net6.0\question4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\obj\Debug\net6.0\question4.AssemblyInfoInputs.cache
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\obj\Debug\net6.0\question4.AssemblyInfo.cs
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\obj\Debug\net6.0\question4.csproj.CoreCompileInputs.cache
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\obj\Debug\net6.0\question4.sourcelink.json
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\obj\Debug\net6.0\question4.dll
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\obj\Debug\net6.0\refint\question4.dll
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\obj\Debug\net6.0\question4.pdb
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\obj\Debug\net6.0\question4.genruntimeconfig.cache
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question4\obj\Debug\net6.0\ref\question4.dll
