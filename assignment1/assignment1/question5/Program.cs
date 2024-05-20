@@ -121,14 +121,14 @@ namespace question5
         {
             Console.Write("Name: ");
             Name = Console.ReadLine();
-            //Console.Write("Gender(True or False): ");
-            //Gender = Convert.ToBoolean(Console.ReadLine());
-            //Console.Write("Age: ");
-            //Age = Convert.ToInt32(Console.ReadLine());
-            //Console.Write("Std: ");
-            //Std = Convert.ToInt32(Console.ReadLine());
-            //Console.Write("Div: ");
-            //Div = Convert.ToChar(Console.ReadLine());
+            Console.Write("Gender(True or False): ");
+            Gender = Convert.ToBoolean(Console.ReadLine());
+            Console.Write("Age: ");
+            Age = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Std: ");
+            Std = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Div: ");
+            Div = Convert.ToChar(Console.ReadLine());
             Console.Write("Marks: ");
             Marks = Convert.ToDouble(Console.ReadLine());
 
@@ -137,10 +137,10 @@ namespace question5
         public void PrintDetails()
         {
             Console.WriteLine("Name: " + Name);
-            //Console.WriteLine("Gender(True or False): " + Gender);
-            //Console.WriteLine("Age: " + Age);
-            //Console.WriteLine("Std: " + Std);
-            //Console.WriteLine("Div: " + Div);
+            Console.WriteLine("Gender(True or False): " + Gender);
+            Console.WriteLine("Age: " + Age);
+            Console.WriteLine("Std: " + Std);
+            Console.WriteLine("Div: " + Div);
             Console.WriteLine("Marks: " + Marks);
         }
 
