@@ -1,0 +1,12 @@
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\bin\Debug\net6.0\question13.deps.json
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\bin\Debug\net6.0\question13.dll
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\bin\Debug\net6.0\question13.pdb
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\obj\Debug\net6.0\question13.GeneratedMSBuildEditorConfig.editorconfig
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\obj\Debug\net6.0\question13.AssemblyInfoInputs.cache
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\obj\Debug\net6.0\question13.AssemblyInfo.cs
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\obj\Debug\net6.0\question13.csproj.CoreCompileInputs.cache
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\obj\Debug\net6.0\question13.sourcelink.json
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\obj\Debug\net6.0\question13.dll
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\obj\Debug\net6.0\refint\question13.dll
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\obj\Debug\net6.0\question13.pdb
+G:\Notes, Codes and Everythin-else\Git Hub Repository\assignment_work\dotnet_assignments\assignment1\assignment1\question13\obj\Debug\net6.0\ref\question13.dll
